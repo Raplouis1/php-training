@@ -1,9 +1,12 @@
+<?php
 //Basic php syntax and commands
+
 //============================================================
+
 /*
 •Comments:
  -One line comment: # or // - Example: //Comment or #Comment
- -Multiple lines comment: /**/ - Example: /* line 1 line 2 line3 etc */
+ -Multiple lines comment: - Example:  line 1 line 2 line3 etc 
 
 
 •Variables Syntax:
@@ -22,7 +25,8 @@
     $decimalNumber = 0.5; // double, float or decimal
     $myCharacter = "p"; // character
     $myString = "Hello World!"; // string
-    $myBoolean = true; // boolean
+    $myBoolean = true; // boolean - true/false
+    $myArray = array(<values>); // array - Example: array(1, 2, 3, 4, 5); - array("Hello", "World");
   -Php is a weakly typed language.That means you don't need to declare the variable type, neither need to cast
    them, because PHP do those things automatically.
    -Example:
@@ -44,5 +48,5 @@
     (+) as concatenation operator.
     -Example:
      echo "Hello " . "World!!!"; //Output: Hello World!!!
-
 */
+?>
