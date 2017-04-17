@@ -14,7 +14,7 @@
    -name cannot start with numbers, only with a letter or undescore(_): Example: Wrong($1var) Right($_Var1)
    -name can only contain alpha-numeric characters and underscores(A-z, 0-9, and _ ): Example: Right($Name_1) Wrong($Name&1)
   
- •Variables Attributes:
+ •Data types:
   -Data types in PHP:
    -Example:
     $wholeNumber = 10; // int
