@@ -1,4 +1,5 @@
 //Basic php syntax and commands
+//-------------------------------------------------------------------------
 /*
 •Comments:
  -One line comment: # or // - Example: //Comment or #Comment
